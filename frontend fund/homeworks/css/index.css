@@ -1,0 +1,18 @@
+body{
+    background-color: lightsteelblue 
+}
+p{
+    font-size: 28px;
+}
+li{
+    font-size: 17px;
+}
+h2{
+    text-align: center;
+   padding: 23px 50px 23px 50px;  
+}
+h1{
+    font-size: 40PX;
+    text-decoration: underline;
+    font-weight: bold
+}
